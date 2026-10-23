@@ -1,3 +1,5 @@
+> **Moved (23 October 2026).** This repository now lives in [`openIE-dev/rce`](https://github.com/openIE-dev/rce) as [`programs/`](https://github.com/openIE-dev/rce/tree/main/programs), with its full history, so that it is checked from the same commit as the specification and the reference checker and can no longer drift from them. Changes go there; this repository is kept only as a pointer.
+
 # RCE examples
 
 Programs written in RCE, grouped by what they are for: simulated worlds,
